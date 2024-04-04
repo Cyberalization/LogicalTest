@@ -1,0 +1,16 @@
+D:\Home\Documents\work\project\Logical\bin\Debug\net6.0-windows\Logical.exe
+D:\Home\Documents\work\project\Logical\bin\Debug\net6.0-windows\Logical.deps.json
+D:\Home\Documents\work\project\Logical\bin\Debug\net6.0-windows\Logical.runtimeconfig.json
+D:\Home\Documents\work\project\Logical\bin\Debug\net6.0-windows\Logical.dll
+D:\Home\Documents\work\project\Logical\bin\Debug\net6.0-windows\Logical.pdb
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.Form1.resources
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.vbproj.GenerateResource.cache
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.AssemblyInfoInputs.cache
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.AssemblyInfo.vb
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.vbproj.CoreCompileInputs.cache
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.dll
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\refint\Logical.dll
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.pdb
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\Logical.genruntimeconfig.cache
+D:\Home\Documents\work\project\Logical\obj\Debug\net6.0-windows\ref\Logical.dll
